@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-19T18:32:14 IST" name="Default suite" finished-at="2021-10-19T18:32:14 IST" duration-ms="66">
+    <groups>
+      <group name="regressionTest">
+        <method signature="contacttest.createContactTest()[pri:0, instance:contacttest.contacttest@1356d4d4]" name="createContactTest" class="contacttest.contacttest"/>
+        <method signature="contacttest.editOrgTest()[pri:0, instance:contacttest.contacttest@1356d4d4]" name="editOrgTest" class="contacttest.contacttest"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test started-at="2021-10-19T18:32:14 IST" name="Default test" finished-at="2021-10-19T18:32:14 IST" duration-ms="66">
+      <class name="contacttest.contacttest">
+        <test-method signature="createContactTest()[pri:0, instance:contacttest.contacttest@1356d4d4]" started-at="2021-10-19T18:32:14 IST" name="createContactTest" finished-at="2021-10-19T18:32:14 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method signature="editOrgTest()[pri:0, instance:contacttest.contacttest@1356d4d4]" started-at="2021-10-19T18:32:14 IST" name="editOrgTest" finished-at="2021-10-19T18:32:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editOrgTest -->
+      </class> <!-- contacttest.contacttest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
